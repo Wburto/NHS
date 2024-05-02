@@ -9,15 +9,48 @@ The second fictional project involved the NHS. The project was aimed at addressi
 - Research: Emphasises on the ability to conduct thorough research, integrating findings from a wide range of sources including 44 references. This skill ensured a well-rounded analysis, grounded in evidence and diverse perspectives.
 - Targeted insights: Demonstrates the ability to translate complex data into actionable insights justified by strong research, focusing on strategic recommendations based on data analysis. Highlights a results-oriented approach, essential for addressing business challenges effectively.
 
-### Key Insights and Recommendations:
-- Analysed NHS data revealing 65% average utilisation rate during a long period that included Covid, identifying potential underutilisation and capacity expansion opportunities. 
-- Raised data concerns by addressing metadata and data quality issues, affecting 13% of appointments, equating to approximately 38,971,612 appointments with data inconsistencies. 
-- Utilised Python for data manipulation and visualisation, creating over 20 graphs to elucidate insights on NHS capacity and resource utilisation.
-- Identified regional discrepancies in NHS appointment allocations, directly correlating to population representation, leading to potential location based recommendations for resource reallocation.
-- Created crude bespoke sentiment analysis tool for use on Twitter data, filtering through keywords and hashtags to evaluate public sentiment, identifying opportunities for service improvement and potential future usage. 
-- Developed strategic recommendations to increase NHS appointment availability through optimising thoroughly researched appointment delivery methods.
-- Identified missed appointment costs of approximately £927 million over 18 months, underscoring the financial impact of data quality and patient attendance.
+### ## **Key Insights and Recommendations:**
+
+- I revealed 65% average utilisation rate during a long data period that included Covid, identifying potential underutilisation and capacity expansion opportunities.
+
+![A timeseries plot looking at utilisation of NHS services across the data time period against real world events. ](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/23b9142e-ec66-4859-bdbd-807df381365c/Untitled.png)
+
+A timeseries plot looking at utilisation of NHS services across the data time period against real world events. 
+
+- I raised data concerns by addressing metadata and data quality issues, which ultimately affected 13% of appointments, equating to approximately 38,971,612 appointments with data inconsistencies.
+- I utilised Python for data manipulation and visualisation, creating over 20 graphs to provide insights on the business questions.
+- I identified regional discrepancies in NHS appointment allocations, directly correlating to population representation, leading to potential future location based recommendations for resource reallocation.
+
+![The box plot shows us just how many appointment counts like outside the IQR and the regional discrepancies. ](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/6eee0b00-5fe9-4917-ad27-5b0892f5fba1/Untitled.png)
+
+The box plot shows us just how many appointment counts like outside the IQR and the regional discrepancies. 
+
+- I created simple, bespoke sentiment analysis tool for use on Twitter data, filtering through keywords and hashtags to evaluate public sentiment, identifying opportunities for service improvement and potential future usage. I also noted the problems with the Twitter data provided and suggested actionable improvements to their data gathering process.
+- I developed strategic recommendations to potentially increase NHS appointment availability through optimising thoroughly researched appointment delivery methods. This included recommending that GP’s use the more efficient telephone appointment rather than face-to-face and that “other practice staff” increase appointment workload to free up more GP time. Currently GPs handle 51% of appointments, while Other Practice Staff manage 46%.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/f6a93fdf-8050-4280-a039-11e43907da38/Untitled.png)
+
+- I noted missed appointment costs of approximately £927 million from January 2020 to June 2022, underscoring the financial impact of data quality and patient attendance.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/c30bf00a-2c79-4e9e-91ad-59a213648d66/Untitled.png)
+
+In 2019 a report on the cost of missing appointments calculated the following.
+
+- “Each appointment costs an average of £30, putting the total cost to the NHS at more than £216 million pounds on top of the disruption for
+staff and fellow patients that would pay for:
+    - The annual salary of 2,325 full time GPs
+    - 224, 640 cataract operations
+    - 58,320 hip replacement operations
+    - 216,000 drug treatment courses for Alzheimer’s
+    - The annual salary of 8, 424 full time community nurses”. (NHS. (2019) 20)
+- If we apply that £30 missed appointment metric to our data, then 30,911,233 not attended appointments over the 18 months period that the
+dataset covers costs the NHS £ 927,336,990
+- I noted appointment duration efficiency issues using the previously government suggested metric of “under 14 days” for the target time before book and appointment. This showed us that 88% of appointments do reach that target. However the 12% that don’t equal 91 million appointments.
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/43f9b12d-9e17-4efc-8e4b-ff42942f4003/Untitled.png)
 
 
 ### Professional Development and Impact: 
 This project underscored my proficiency in leveraging advanced analytics, research, and data visualisation techniques to drive significant potential improvements for the NHS. The initiative not only showcased my technical acumen but also highlighted my ability to translate data insights into actionable strategies that enhance service delivery and operational efficiency.
+
+Presentation: https://www.youtube.com/watch?v=_tA6TNtepQA&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=Mjg2NjY&feature=emb_logo 
