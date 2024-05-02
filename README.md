@@ -1,19 +1,26 @@
 # NHS: Utilisation & Capacity Analysis- 89% final grade.
 
 ### Project Summary: 
-The second fictional project involved the NHS. The project was aimed at addressing the abstract issues of adequate capacity and utilisation within the system by considering appointment data. Through rigorous data analysis, we identified key areas for improvement: optimising resource allocation, forecasting health trends, and improving patient care services.
+The second LSE six week fictional project involved the NHS. The project was aimed at addressing the abstract issues of adequate capacity and utilisation within the system by considering appointment data. Through rigorous data analysis I identified key areas for improvement: optimising resource allocation, forecasting health trends, and improving patient care services.
+
+The report considered the two primary business questions as proposed by the NHS:
+
+- Has there been adequate staff and capacity in the networks?
+- What was the actual utilisation of resources?
 
 ### Analytical Approach Highlights:
-- Data Consolidation and Integrity: Focused on data quality and standardisation, highlighting skills in using metadata to identify and correct data issues. Demonstrated proficiency in consolidating data sets, ensuring accuracy and reliability in analysis outcomes.
-- TimeSeries for Predictive Forecasting: Illustrates proficiency in TimeSeries analysis, utilising Python libraries for forecasting. This skill is essential for predicting trends and making data-driven decisions, showcasing an ability to handle and analyse time based data effectively.
-- Research: Emphasises on the ability to conduct thorough research, integrating findings from a wide range of sources including 44 references. This skill ensured a well-rounded analysis, grounded in evidence and diverse perspectives.
-- Targeted insights: Demonstrates the ability to translate complex data into actionable insights justified by strong research, focusing on strategic recommendations based on data analysis. Highlights a results-oriented approach, essential for addressing business challenges effectively.
+- **Data Consolidation and Integrity:** I focused on data quality and standardisation issues of which there were many. I used the metadata to identify and correct data issues, specifically noting that the data was not originally designed for analysis. In spite of this, I demonstrated proficiency in consolidating data sets. When possible, ensuring accuracy and reliability analysis outcomes.
+- **TimeSeries for Predictive Forecasting:** I Illustrated proficiency through TimeSeries analysis, utilising Python for forecasting. This proved essential for predicting trends and making data-driven decisions, showcasing my ability to handle and analyse time based data effectively.
+- **Research:** I conducted thorough research, integrating findings from a wide range of sources including 44 references from several reliable sources. This ensured a well-rounded analysis, grounded in evidence and diverse perspectives.
+- **Targeted insights**: I demonstrated the ability to translate complex data into actionable insights justified by strong research, focusing on strategic recommendations based on data analysis. Highlighting a results-oriented approach to an otherwise nebulous business question.
 
 ### ## **Key Insights and Recommendations:**
 
 - I revealed 65% average utilisation rate during a long data period that included Covid, identifying potential underutilisation and capacity expansion opportunities.
 
-![A timeseries plot looking at utilisation of NHS services across the data time period against real world events. ](https://prod-files-secure.s3.us-west-2.amazonaws.com/4394a732-f9f1-4e08-94ea-113fc19ce7c0/23b9142e-ec66-4859-bdbd-807df381365c/Untitled.png)
+![A timeseries plot looking at utilisation of NHS services across the data time period against real world events. ](![image](https://github.com/Wburto/NHS/assets/132344378/affe2382-2813-490d-ad9a-c9aa1668e8d1)
+
+
 
 A timeseries plot looking at utilisation of NHS services across the data time period against real world events. 
 
@@ -53,4 +60,4 @@ dataset covers costs the NHS £ 927,336,990
 ### Professional Development and Impact: 
 This project underscored my proficiency in leveraging advanced analytics, research, and data visualisation techniques to drive significant potential improvements for the NHS. The initiative not only showcased my technical acumen but also highlighted my ability to translate data insights into actionable strategies that enhance service delivery and operational efficiency.
 
-Presentation: https://www.youtube.com/watch?v=_tA6TNtepQA&embeds_referring_euri=https%3A%2F%2Fwww.notion.so%2F&source_ve_path=Mjg2NjY&feature=emb_logo 
+Presentation: https://youtu.be/_tA6TNtepQA?feature=shared 
