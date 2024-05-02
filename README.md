@@ -17,8 +17,7 @@ The report considered the two primary business questions as proposed by the NHS:
 ### ## **Key Insights and Recommendations:**
 
 - I revealed 65% average utilisation rate during a long data period that included Covid, identifying potential underutilisation and capacity expansion opportunities.
-((https://github.com/Wburto/NHS/assets/132344378/affe2382-2813-490d-ad9a-c9aa1668e8d1)
-
+![image](https://github.com/Wburto/NHS/assets/132344378/c4663bc2-da33-4d6a-8e1b-60c13dec8517)
 
 
 A timeseries plot looking at utilisation of NHS services across the data time period against real world events. 
