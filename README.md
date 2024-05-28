@@ -14,7 +14,7 @@ The report considered the two primary business questions as proposed by the NHS:
 - **Research:** I conducted thorough research, integrating findings from a wide range of sources including 44 references from several reliable sources. This ensured a well-rounded analysis, grounded in evidence and diverse perspectives.
 - **Targeted insights**: I demonstrated the ability to translate complex data into actionable insights justified by strong research, focusing on strategic recommendations based on data analysis. Highlighting a results-oriented approach to an otherwise nebulous business question.
 
-### ## **Key Insights and Recommendations:**
+### **Key Insights and Recommendations:**
 
 - I revealed 65% average utilisation rate during a long data period that included Covid, identifying potential underutilisation and capacity expansion opportunities.
   - A timeseries plot looking at utilisation of NHS services across the data time period against real world events.
